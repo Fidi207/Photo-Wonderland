@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background: rgb(131, 58, 180);
+    background: linear-gradient(270deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+}
+
+div{
+    margin-top: 15px;
+}
+
+.section{
+    display: flex;
+    justify-content: center;
+}
+
+.images{
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+.pics{
+    width: 400px;
+    height: 400px;
+}
+
+h1{
+    color: darkviolet;
+    font-family: 'Permanent Marker', cursive;
+}
